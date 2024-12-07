@@ -1,0 +1,14 @@
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.AssemblyInfoInputs.cache
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.AssemblyInfo.cs
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.csproj.CoreCompileInputs.cache
+C:\Personal project\AI Assignment\GradeCaculator\bin\Debug\net8.0\GradeCaculator.exe
+C:\Personal project\AI Assignment\GradeCaculator\bin\Debug\net8.0\GradeCaculator.deps.json
+C:\Personal project\AI Assignment\GradeCaculator\bin\Debug\net8.0\GradeCaculator.runtimeconfig.json
+C:\Personal project\AI Assignment\GradeCaculator\bin\Debug\net8.0\GradeCaculator.dll
+C:\Personal project\AI Assignment\GradeCaculator\bin\Debug\net8.0\GradeCaculator.pdb
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.dll
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\refint\GradeCaculator.dll
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.pdb
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\GradeCaculator.genruntimeconfig.cache
+C:\Personal project\AI Assignment\GradeCaculator\obj\Debug\net8.0\ref\GradeCaculator.dll
